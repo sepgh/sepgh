@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 I'm Sepehr, and I have spent most of my programming career working on Java web solutions using Spring framework. Big part of my projects on github are untested experimental libraries, perhaps with kinda a dirty code (oops). But everyday I do my best to improve my code quality and knowledge.
 
-🔭 I’m currently working on Java based P2P messaging solution in [@ep2p](https://github.com/ep2p), and `Rest Over Websocket` in [@idioglossia](https://github.com/idioglossia) where I'm going to create more dumb projects :D
+🔭 I’m currently working on Java based `P2P messaging solution` in **[@ep2p](https://github.com/ep2p)**, and `Rest Over Websocket` in **[@idioglossia](https://github.com/idioglossia)** where I'm going to create more dumb/personal projects. Both of these are my own github organizations.
 
-🌱 I’m currently learning about DHT and Kademlia, but also studying a little bit of Maths, Algorithms and CE every now and then too.
+🌱 I’m currently learning about DHT and Kademlia (available in @ep2p), but also studying a little bit of Maths, Algorithms and CE every now and then too.
