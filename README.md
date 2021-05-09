@@ -1,7 +1,11 @@
 ## Hi there 👋
 
+[![](https://img.shields.io/badge/main%20language-java-orange?style=for-the-badge&logo=java&logoColor=white)]()
+[![](https://img.shields.io/badge/discord-sep%238562-blue?style=for-the-badge&logo=discord&logoColor=7289DA)](https://discordapp.com/users/696960728095129640)
 
-I'm **Sepehr**, 25 years old developer from Tehran, and I have spent most of my programming career working on Java web solutions using Spring framework.
+
+
+I'm **Sepehr**, a self taught developer who also has habit of studying online courses, and I have spent most of my programming career working on Java web solutions using Spring framework.
 
 
 <p align="center">
