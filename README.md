@@ -20,3 +20,7 @@ I'm Sepehr, and I have spent most of my programming career working on Java web s
 🔭 I’m currently working on Java based `P2P messaging solution` in **[@ep2p](https://github.com/ep2p)**, and `Rest Over Websocket` in **[@idioglossia](https://github.com/idioglossia)** where I'm going to create more dumb/personal projects. Both of these are my own github organizations.
 
 🌱 I’m learning about DHT and Kademlia (available in @ep2p), but also studying a little bit of Maths, Algorithms and CE every now and then too.
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sepehr-gh&show_icons=true&theme=vision-friendly-dark" alt="Sepehr Gh's GitHub stats" />
+</p>
