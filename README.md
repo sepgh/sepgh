@@ -5,7 +5,9 @@
 
 
 
-I'm **Sepehr**, a self taught developer who also has habit of studying online courses, and I have spent most of my programming career working on Java web solutions using Spring framework.
+I'm **Sepehr**, a self taught developer who also has habit of studying online courses. 
+
+I have spent most of my programming career working on Java web solutions using Spring framework.
 
 
 <p align="center">
