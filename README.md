@@ -9,7 +9,7 @@
 I'm **Sepehr**, a self taught developer who also has habit of studying online courses. 
 
 I have spent most of my programming career working on `Java` web solutions using `Spring framework`.
-I'm also familiar with `Python` and `Django Framework`, which are what I'm using on daily basis at where I work.
+I'm also familiar with `Python` and `Django Framework`.
 
 You may not find many active repositories on my profile right now because I am busy with **Eleuth P2P** mostly.
 
