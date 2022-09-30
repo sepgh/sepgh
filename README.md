@@ -1,4 +1,5 @@
 [![](https://img.shields.io/badge/main%20language-java-orange?style=for-the-badge&logo=java&logoColor=white)]()
+[![](https://img.shields.io/badge/second%20language-python-blue?style=for-the-badge&logo=python&logoColor=white)]()
 [![](https://img.shields.io/badge/discord-sep%238562-blue?style=for-the-badge&logo=discord&logoColor=7289DA)](https://discordapp.com/users/696960728095129640)
 
 
