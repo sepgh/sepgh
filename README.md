@@ -29,6 +29,6 @@ Here is a sample of these applications and libraries:
 
 <p align="center">
   <a href="https://github.com/ep2p/kademlia-api"><img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ep2p&repo=kademlia-api&show_owner=true&theme=nord" alt="EP2P kademlia-api's GitHub stats" /></a>
-  <a href="https://github.com/ep2p/somnia"><img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ep2p&repo=somnia&show_owner=true&theme=nord" alt="EP2P Somnia's GitHub stats" /></a>
+  <a href="https://github.com/ep2p/kademlia-api"><img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ep2p&repo=kademlia-netty&show_owner=true&theme=nord" alt="EP2P Somnia's GitHub stats" /></a>
   
 </p>
