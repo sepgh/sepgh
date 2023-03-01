@@ -1,24 +1,16 @@
-[![](https://img.shields.io/badge/main%20language-java-orange?style=for-the-badge&logo=java&logoColor=white)]()
-[![](https://img.shields.io/badge/second%20language-python-blue?style=for-the-badge&logo=python&logoColor=white)]()
-[![](https://img.shields.io/badge/discord-sep%238562-blue?style=for-the-badge&logo=discord&logoColor=7289DA)](https://discordapp.com/users/696960728095129640)
+<h1 align="center">Hi 👋, I'm Sepehr</h1>
+<h3 align="center">A backend developer having fun with python and java, doing stoopid stuff</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sepgh&label=Profile%20views&color=0e75b6&style=flat" alt="sepgh" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sepgh" alt="sepgh" /></a> </p>
 
-## Hi there 👋
-
-
-I'm **Sepehr**, a self taught developer who also has habit of studying online courses. 
-
-I have spent most of my programming career working on `Java` web solutions using `Spring framework`.
-I'm also familiar with `Python` and `Django Framework`.
-
-You may not find many active repositories on my profile right now because I am busy with **Eleuth P2P** mostly.
-
-<!--
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sepehr-gh&show_icons=true&theme=nord&count_private=true&hide_title=true" alt="Sepehr Gh's GitHub stats" />
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://discord.gg/#sep8562" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#sep8562" height="30" width="40" /></a>
 </p>
--->
 
-<a href="https://stackoverflow.com/users/5197662/sepehr-gh"><img src="https://stackoverflow.com/users/flair/5197662.png" width="208" height="58" alt="profile for Sepehr GH at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Sepehr GH at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sepgh&show_icons=true&locale=en" alt="sepgh" /></p>
